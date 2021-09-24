@@ -1,0 +1,8 @@
+C:\Users\MrSet\Desktop\MyOPCWrapperLib\bin\Debug\MyOPCWrapperLib.dll
+C:\Users\MrSet\Desktop\MyOPCWrapperLib\bin\Debug\MyOPCWrapperLib.pdb
+C:\Users\MrSet\Desktop\MyOPCWrapperLib\obj\Debug\MyOPCWrapperLib.csproj.AssemblyReference.cache
+C:\Users\MrSet\Desktop\MyOPCWrapperLib\obj\Debug\Interop.OPCAutomation.dll
+C:\Users\MrSet\Desktop\MyOPCWrapperLib\obj\Debug\MyOPCWrapperLib.csproj.ResolveComReference.cache
+C:\Users\MrSet\Desktop\MyOPCWrapperLib\obj\Debug\MyOPCWrapperLib.csproj.CoreCompileInputs.cache
+C:\Users\MrSet\Desktop\MyOPCWrapperLib\obj\Debug\MyOPCWrapperLib.dll
+C:\Users\MrSet\Desktop\MyOPCWrapperLib\obj\Debug\MyOPCWrapperLib.pdb
