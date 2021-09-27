@@ -31,7 +31,7 @@ namespace MyOPCWrapperLib
             group = Group;
             for (int i = 0; i < ItemIDs.Length; i++)
             {
-                MyOPCTags.Add(new MyOPCItem(Group.OPCItems.AddItem(ItemIDs[i], MyOPCTags.Count)));
+                MyOPCTags.Add(new MyOPCItem(this, Group.OPCItems.AddItem(ItemIDs[i], MyOPCTags.Count)));
             }
             group.DataChange += Group_DataChange;
         }
